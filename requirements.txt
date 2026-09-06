@@ -1,0 +1,25 @@
+# Deep Learning Frameworks
+torch
+torchvision
+
+# Computer Vision
+opencv-python
+ultralytics
+# Vision Language Modelß
+transformers
+accelerate
+qwen-vl-utils
+
+# Image Processing
+Pillow
+numpy
+
+# Utilities
+tqdm
+matplotlib
+
+# Optional: For 4-bit quantization (if using load_in_4bit)
+# Development (optional)
+#pytest>=7.4.0
+#black>=23.0.0
+#flake8>=6.0.0

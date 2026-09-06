@@ -1,0 +1,30 @@
+{
+    "doc_id": "172903213_2_pg27",
+    "fields": {
+        "dealer_name": "SHREE KRUSHI TRACTORS",
+        "model_name": "Sonalika Tiger 2-42-4WD-45 HP",
+        "horse_power": 45,
+        "asset_cost": 9661741,
+        "signature": {
+            "present": true,
+            "bbox": [
+                829,
+                1444,
+                966,
+                1525
+            ]
+        },
+        "stamp": {
+            "present": true,
+            "bbox": [
+                834,
+                1387,
+                1028,
+                1559
+            ]
+        }
+    },
+    "confidence": 0.98,
+    "processing_time_sec": 75.1,
+    "cost_estimate_usd": 0
+}

@@ -1,0 +1,25 @@
+{
+    "doc_id": "172946013_2_pg23",
+    "fields": {
+        "dealer_name": "The Odisha Agro Industries Corporation Ltd.",
+        "model_name": "Mahindra Yuvo Tech+ 575 DI 4WD",
+        "horse_power": 97,
+        "asset_cost": 925039,
+        "signature": {
+            "present": false,
+            "bbox": []
+        },
+        "stamp": {
+            "present": true,
+            "bbox": [
+                988,
+                1070,
+                1270,
+                1230
+            ]
+        }
+    },
+    "confidence": 0.91,
+    "processing_time_sec": 79.16,
+    "cost_estimate_usd": 0
+}

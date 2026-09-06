@@ -1,0 +1,20 @@
+{
+    "doc_id": "173152903_2_pg33",
+    "fields": {
+        "dealer_name": "THE ODISHA AGRO INDUSTRIES CORPORATION LTD.",
+        "model_name": "EURO 50 E91 (Brand name - POWERTRAC) NXT",
+        "horse_power": 52,
+        "asset_cost": 1005892,
+        "signature": {
+            "present": false,
+            "bbox": []
+        },
+        "stamp": {
+            "present": false,
+            "bbox": []
+        }
+    },
+    "confidence": 0.8,
+    "processing_time_sec": 78.27,
+    "cost_estimate_usd": 0
+}

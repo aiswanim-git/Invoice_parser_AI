@@ -1,0 +1,30 @@
+{
+    "doc_id": "172585685_3_pg1",
+    "fields": {
+        "dealer_name": "Jai Kudargarhi Tractors",
+        "model_name": "YUVO TECH+ 405 DI",
+        "horse_power": 39,
+        "asset_cost": 770000,
+        "signature": {
+            "present": true,
+            "bbox": [
+                840,
+                1307,
+                1024,
+                1384
+            ]
+        },
+        "stamp": {
+            "present": true,
+            "bbox": [
+                763,
+                1279,
+                1098,
+                1416
+            ]
+        }
+    },
+    "confidence": 0.94,
+    "processing_time_sec": 75.37,
+    "cost_estimate_usd": 0
+}

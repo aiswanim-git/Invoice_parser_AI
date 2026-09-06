@@ -1,0 +1,25 @@
+{
+    "doc_id": "172607979_4_pg1",
+    "fields": {
+        "dealer_name": "Krishna Traders",
+        "model_name": "PT 434 DS PLUS HR",
+        "horse_power": 39,
+        "asset_cost": 550000,
+        "signature": {
+            "present": false,
+            "bbox": []
+        },
+        "stamp": {
+            "present": true,
+            "bbox": [
+                963,
+                1032,
+                1140,
+                1205
+            ]
+        }
+    },
+    "confidence": 0.98,
+    "processing_time_sec": 66.25,
+    "cost_estimate_usd": 0
+}

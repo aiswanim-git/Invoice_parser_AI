@@ -1,0 +1,30 @@
+{
+    "doc_id": "172939172_2_pg34",
+    "fields": {
+        "dealer_name": "मनप्रीत ट्रेक्टर्स",
+        "model_name": "D1-35RX PS",
+        "horse_power": 39,
+        "asset_cost": 755000,
+        "signature": {
+            "present": true,
+            "bbox": [
+                779,
+                1004,
+                954,
+                1064
+            ]
+        },
+        "stamp": {
+            "present": true,
+            "bbox": [
+                769,
+                957,
+                965,
+                1136
+            ]
+        }
+    },
+    "confidence": 0.98,
+    "processing_time_sec": 79.1,
+    "cost_estimate_usd": 0
+}

@@ -1,0 +1,30 @@
+{
+    "doc_id": "172576446_2_pg26",
+    "fields": {
+        "dealer_name": "K D TRACTORS",
+        "model_name": "MAHINDRA YUVO TECH + 405 DI",
+        "horse_power": 39,
+        "asset_cost": 796000,
+        "signature": {
+            "present": true,
+            "bbox": [
+                892,
+                1065,
+                1024,
+                1119
+            ]
+        },
+        "stamp": {
+            "present": true,
+            "bbox": [
+                878,
+                1039,
+                1059,
+                1198
+            ]
+        }
+    },
+    "confidence": 0.97,
+    "processing_time_sec": 70.98,
+    "cost_estimate_usd": 0
+}

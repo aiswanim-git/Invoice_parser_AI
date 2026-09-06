@@ -1,0 +1,25 @@
+{
+    "doc_id": "173186866_1_pg16",
+    "fields": {
+        "dealer_name": "Baba Jagannath Tractors",
+        "model_name": "MF 245 D1",
+        "horse_power": 50,
+        "asset_cost": 670000,
+        "signature": {
+            "present": true,
+            "bbox": [
+                813,
+                1535,
+                1060,
+                1607
+            ]
+        },
+        "stamp": {
+            "present": false,
+            "bbox": []
+        }
+    },
+    "confidence": 0.9,
+    "processing_time_sec": 65.49,
+    "cost_estimate_usd": 0
+}

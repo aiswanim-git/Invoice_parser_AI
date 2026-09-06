@@ -1,0 +1,20 @@
+{
+    "doc_id": "173210220_2_pg16",
+    "fields": {
+        "dealer_name": "PATHAN MOTORS AND TRACTORS",
+        "model_name": "DI 745 III POWER PLUS 01B PS 47 HP",
+        "horse_power": 47,
+        "asset_cost": 750000,
+        "signature": {
+            "present": false,
+            "bbox": []
+        },
+        "stamp": {
+            "present": false,
+            "bbox": []
+        }
+    },
+    "confidence": 0.8,
+    "processing_time_sec": 74.09,
+    "cost_estimate_usd": 0
+}

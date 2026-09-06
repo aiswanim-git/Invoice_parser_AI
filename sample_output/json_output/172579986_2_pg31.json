@@ -1,0 +1,25 @@
+{
+    "doc_id": "172579986_2_pg31",
+    "fields": {
+        "dealer_name": "THE ORISSA AGRO INDUSTRIES CORPORATION LTD.",
+        "model_name": "Swaraj 744 FE",
+        "horse_power": 48,
+        "asset_cost": 933754,
+        "signature": {
+            "present": true,
+            "bbox": [
+                784,
+                1376,
+                1001,
+                1491
+            ]
+        },
+        "stamp": {
+            "present": false,
+            "bbox": []
+        }
+    },
+    "confidence": 0.91,
+    "processing_time_sec": 69.45,
+    "cost_estimate_usd": 0
+}

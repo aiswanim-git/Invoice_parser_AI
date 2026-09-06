@@ -1,0 +1,30 @@
+{
+    "doc_id": "173156632_2_pg22",
+    "fields": {
+        "dealer_name": "ISHWAR MOTORS",
+        "model_name": "P.T.EURO.434.E3",
+        "horse_power": 39,
+        "asset_cost": 550000,
+        "signature": {
+            "present": true,
+            "bbox": [
+                886,
+                1231,
+                1011,
+                1318
+            ]
+        },
+        "stamp": {
+            "present": true,
+            "bbox": [
+                283,
+                824,
+                462,
+                992
+            ]
+        }
+    },
+    "confidence": 0.97,
+    "processing_time_sec": 64.69,
+    "cost_estimate_usd": 0
+}

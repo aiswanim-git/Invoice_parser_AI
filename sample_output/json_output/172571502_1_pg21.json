@@ -1,1 +1,25 @@
-
+{
+    "doc_id": "172571502_1_pg21",
+    "fields": {
+        "dealer_name": "नेशनल ट्रैक्टर सेल्स",
+        "model_name": "MF 241 DT",
+        "horse_power": 42,
+        "asset_cost": 638500,
+        "signature": {
+            "present": false,
+            "bbox": []
+        },
+        "stamp": {
+            "present": true,
+            "bbox": [
+                958,
+                1287,
+                1117,
+                1437
+            ]
+        }
+    },
+    "confidence": 0.98,
+    "processing_time_sec": 76.86,
+    "cost_estimate_usd": 0
+}

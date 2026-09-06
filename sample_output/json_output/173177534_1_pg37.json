@@ -1,0 +1,25 @@
+{
+    "doc_id": "173177534_1_pg37",
+    "fields": {
+        "dealer_name": "Auto Union (Jodhpur)",
+        "model_name": "MF 241 32",
+        "horse_power": 42,
+        "asset_cost": 590000,
+        "signature": {
+            "present": true,
+            "bbox": [
+                782,
+                1041,
+                947,
+                1127
+            ]
+        },
+        "stamp": {
+            "present": false,
+            "bbox": []
+        }
+    },
+    "confidence": 0.9,
+    "processing_time_sec": 62.89,
+    "cost_estimate_usd": 0
+}

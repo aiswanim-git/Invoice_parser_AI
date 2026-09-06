@@ -1,0 +1,30 @@
+{
+    "doc_id": "172589759_3_pg6",
+    "fields": {
+        "dealer_name": "शिव शक्ति एंग्रो",
+        "model_name": "स्वराज 742 XT",
+        "horse_power": 45,
+        "asset_cost": 812000,
+        "signature": {
+            "present": true,
+            "bbox": [
+                991,
+                1245,
+                1156,
+                1319
+            ]
+        },
+        "stamp": {
+            "present": true,
+            "bbox": [
+                941,
+                1197,
+                1125,
+                1369
+            ]
+        }
+    },
+    "confidence": 0.99,
+    "processing_time_sec": 75.19,
+    "cost_estimate_usd": 0
+}

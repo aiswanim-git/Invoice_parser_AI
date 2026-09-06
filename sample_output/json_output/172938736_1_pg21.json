@@ -1,0 +1,25 @@
+{
+    "doc_id": "172938736_1_pg21",
+    "fields": {
+        "dealer_name": "CHOWDHARY TRACTOR",
+        "model_name": "FT-60 POWERMAXX 55HP",
+        "horse_power": 55,
+        "asset_cost": 840000,
+        "signature": {
+            "present": false,
+            "bbox": []
+        },
+        "stamp": {
+            "present": true,
+            "bbox": [
+                882,
+                1300,
+                1113,
+                1526
+            ]
+        }
+    },
+    "confidence": 0.99,
+    "processing_time_sec": 68.89,
+    "cost_estimate_usd": 0
+}

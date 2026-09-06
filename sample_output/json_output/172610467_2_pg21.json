@@ -1,0 +1,30 @@
+{
+    "doc_id": "172610467_2_pg21",
+    "fields": {
+        "dealer_name": "SABAR AGROTECH",
+        "model_name": "TAFE MF 291 DF (42 HP)",
+        "horse_power": 42,
+        "asset_cost": 830000,
+        "signature": {
+            "present": true,
+            "bbox": [
+                930,
+                1233,
+                1172,
+                1351
+            ]
+        },
+        "stamp": {
+            "present": true,
+            "bbox": [
+                926,
+                1173,
+                1133,
+                1377
+            ]
+        }
+    },
+    "confidence": 0.97,
+    "processing_time_sec": 69.08,
+    "cost_estimate_usd": 0
+}

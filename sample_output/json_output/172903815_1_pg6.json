@@ -1,0 +1,20 @@
+{
+    "doc_id": "172903815_1_pg6",
+    "fields": {
+        "dealer_name": "विपुल ट्रैक्टर्स",
+        "model_name": "DI - U2 RX U2 HP",
+        "horse_power": 2,
+        "asset_cost": 750000,
+        "signature": {
+            "present": false,
+            "bbox": []
+        },
+        "stamp": {
+            "present": false,
+            "bbox": []
+        }
+    },
+    "confidence": 0.8,
+    "processing_time_sec": 74.57,
+    "cost_estimate_usd": 0
+}
